@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VaroCodes but you can call me Varo
+- 👀 I often stream my chaotic code on [Twitch](https://www.twitch.tv/CodeJanus)
+- 📫 You can also reach me on [Discord](https://discord.gg/qJs2Jcbcfu), where my username is CodeJanus#7047
